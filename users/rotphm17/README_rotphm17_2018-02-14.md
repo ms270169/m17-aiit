@@ -22,5 +22,5 @@ Eine sehr ausführliche Beschreibung über Formatierungen können Sie [***Hier**
 Man sollte Überschriften deutlich bzw. Fett gestalten, damit sie gut aus dem Text herausstechen!
 Den Überschriften kann man auch automatische Formatvorlagen zuweisen,
 indem man die Textstelle markiert und bei der Symbolleiste auf z.B. **Überschrift1** klickt. Wenn eine Unterüberschrift vorhanden ist, dann diese makieren und auf **Überschrift2**klicken! Man kann diese Überschriften danach auch Numerieren, damit es ein sehr übersichtlicher Text wird.
-Diese Funktion ist sehr Hilfreich, wenn man später vor hat, ein Inhaltsverzeichniss zu machen. Deswegen ist diese Formatierungsart ein **Mus** für jede längere Pdf-Datei!
+Diese Funktion ist sehr Hilfreich, wenn man später vor hat, ein Inhaltsverzeichniss zu machen. Deswegen ist diese Formatierungsart ein **Muss** für jede längere Pdf-Datei!
 
