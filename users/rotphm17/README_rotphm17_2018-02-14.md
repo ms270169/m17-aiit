@@ -9,6 +9,10 @@ Es gibt verschiedene Arten um einen Text hervorzuheben:
 
 * **Fett**
 * *Kursiv*
+* Unterstrichen
+
+Eine sehr ausführliche Beschreibung über Formatierungen können Sie [***Hier***](https://www.openoffice.org/de/doc/oooauthors/writer/06-einfuehrung-in-formatvorlagen.pdf) nachlesen!
+
 
 
 ## Überschriften
