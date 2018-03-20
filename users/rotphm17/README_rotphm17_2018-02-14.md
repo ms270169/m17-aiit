@@ -11,12 +11,15 @@ Es gibt verschiedene Arten um einen Text hervorzuheben:
 * *Kursiv*
 * Unterstrichen
 
-Eine sehr ausführliche Beschreibung über Formatierungen können Sie [***Hier***](https://www.openoffice.org/de/doc/oooauthors/writer/06-einfuehrung-in-formatvorlagen.pdf) nachlesen!
+Diese Grundformatierungsoptionen findet man in der Symbolleiste.
+
+Eine sehr ausführliche Beschreibung über Formatierungen können Sie [***Hier***](https://www.openoffice.org/de/doc/oooauthors/writer/06-einfuehrung-in-formatvorlagen.pdf) nachlesen! Formatierungen machen den Text sehr anschaulich und deswegen wird dies auch bei Werbungen verwendet.
 
 
 
 ## Überschriften
 
 Man sollte Überschriften deutlich bzw. Fett gestalten, damit sie gut aus dem Text herausstechen!
-Den Überschriften kann man auch automatische Formatvorlagen zuweisen, indem man die Textstelle markiert und auf z.B. **Überschrift 1** klickt.
+Den Überschriften kann man auch automatische Formatvorlagen zuweisen,
+indem man die Textstelle markiert und bei der Symbolleiste auf z.B. **Überschrift 1** klickt.
 
