@@ -21,5 +21,5 @@ Eine sehr ausführliche Beschreibung über Formatierungen können Sie [***Hier**
 
 Man sollte Überschriften deutlich bzw. Fett gestalten, damit sie gut aus dem Text herausstechen!
 Den Überschriften kann man auch automatische Formatvorlagen zuweisen,
-indem man die Textstelle markiert und bei der Symbolleiste auf z.B. **Überschrift 1** klickt.
+indem man die Textstelle markiert und bei der Symbolleiste auf z.B. **Überschrift1** klickt.
 
