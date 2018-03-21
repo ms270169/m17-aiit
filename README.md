@@ -22,3 +22,5 @@
   *von Jan Pfanner*
 * [14.3.2018](users/golram17/README_golram17_2018-03-14.md) **Calc: Bedingte Formatierungen und Formeln**  
   *von Raphael Golser*
+* [21.3.2018](users/stanid16/README_stanid16_2018-03-21.md) **Calc: Formeln und Diagramme**  
+  *von Nico Stani*
