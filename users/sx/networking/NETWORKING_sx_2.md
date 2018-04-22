@@ -4,7 +4,7 @@
 
 Der Benutzer gibt einen **Uniform Resource Locator** (*URL*) im Browser ein. Dieser beinhaltet im authority-Teil den Domain-Namen oder die IP-Adresse des Rechners, auf dem der Server (ein Programm) läuft.
 
-## 2.Schritt: Auflösung des Domain-Namen (Hostname, Rechnername)
+### Auflösung des Domain-Namen (Hostname, Rechnername)
 
 Falls im URI ein Domainname verwendet wurde (zum Beispiel *htl-mechatronik.at*), muss im ersten Schritt die IP-Adresse dieser Domain gefunden werden. Dazu gibt es mehrere Möglichkeiten:
 
@@ -26,7 +26,7 @@ Weiterführende Informationen in Wikipedia:
 * [Domain Name System](https://de.wikipedia.org/wiki/Domain_Name_System)
 * [Domain-Namesraum](https://de.wikipedia.org/wiki/Domain_Name_System#Domain-Namensraum)
 
-## TCP/IP, IP-Adressen
+### TCP/IP, IP-Adressen
 
 Die meisten Netzwerke (so auch das Internet) verwenden heute die Protokolle **TCP** (*Transmission Control Protocol*) und **IP** (*Internet Protocol*) als Basistechnologie. Man spricht dann von einem **TCP/IP-Netzwerk**.
 
@@ -55,7 +55,7 @@ Siehe auch: [https://www.iana.org/numbers](https://www.iana.org/numbers)
 Weiterführende Informationen in Wikipedia:  
 * [https://de.wikipedia.org/wiki/IP-Adresse](https://de.wikipedia.org/wiki/IP-Adresse)
 
-## IPv4 Adressen im IPv6 Netzwerk
+### IPv4 Adressen im IPv6 Netzwerk
 
 Um die Umstellung von klassischen IPv4 Netzen zu IPv6 Netzen zu erleichtern, können IPv4-Adressen auch als IPv6-Adresse gebildet werden.
 
@@ -72,7 +72,7 @@ Weiterführende Informationen in Wikipedia:
 * [6to4](https://en.wikipedia.org/wiki/6to4)
 
 
-## Private IP-Adressen
+### Private IP-Adressen
 
 Damit im internen Heim- und Firmenbereich TCP/IP Netze errichtet werden können, sind bestimmte Adressbereiche als **private Adressen** definiert. Diese werden im öffentlichen Netz (Internet) nicht verwendet.
 
@@ -90,7 +90,7 @@ Alle Adressen die mit `fd00` beginnen.
 Weiterführende Informationen in Wikipedia:
 * [Private IP-Adresse](https://de.wikipedia.org/wiki/Private_IP-Adresse)
 
-## CIDR, Netzwerk- und Geräteteil
+### CIDR, Netzwerk- und Geräteteil
 
 Eine IP-Adresse besteht eigentlich aus zwei Teilen, einem Netzwerk- und Geräteteil. Zu Beginn des Internets wurde mit Hilfe von Netzklassen diese Unterscheidung getroffen. Seit 1993 wird das **Classless Inter-Domain Routing** (**CIDR**) Verfahren verwendet.
 

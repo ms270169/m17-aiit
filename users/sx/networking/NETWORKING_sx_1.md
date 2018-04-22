@@ -15,7 +15,7 @@ Weiterführende Informationen in Wikipedia:
 Wir werden uns der Thematik aus dem Blickwinkel eines Internet-Browser nähern. Wir gehen davon aus, dass ein Mensch im Browser die URL einer pdf-Datei eingibt, und der Browser sich von einem Server diese Datei herunterladet und am Rechner anzeigt.
 
 
-## Wie werden Informationen auf Rechnern gespeichert?
+### Wie werden Informationen auf Rechnern gespeichert?
 
 Informationen werden in Form von **Dateien** (*Files*) auf einem Datenträger (Festplatte, ...) gespeichert. Der Datenträger ist in der Regel partitioniert und er muss mit einem Dateisystem (NTFS, ext4, ...) formatiert sein. Eine Datei besteht aus einer Menge an Bytes, wobei die Datei auch leer sein darf (es existiert dann nur der "Name" der Datei im Dateisystem). Ein Byte ist eine Gruppe von 8 Bit, die als Binärcode (Dualcode) verstanden werden darf. Mit 8 Bit lässt sich eine Zahl im Bereich 0 bis 255 (Hex FF) bilden. Eine Datei kann daher auch als Menge von Bits gesehen werden.
 
@@ -47,7 +47,7 @@ Weiterführende Informationen in Wikipedia:
 * [Code](https://de.wikipedia.org/wiki/Code)  
 
 
-## Server/Client Prinzip
+### Server/Client Prinzip
 
 In Netzwerken ist häufig das *Server/Client-Prinzip* anzutreffen. Bei einem solchen System stellt der Server Informationen zur Verfügung, und der Client kann diese Informationen abfragen. Server und Client sind Programme die am gleichen Rechner oder auf unterschiedlichen Rechnern laufen können.
 
@@ -64,7 +64,7 @@ Weiterführende Informationen in Wikipedia:
 * [URI](https://de.wikipedia.org/wiki/Uniform_Resource_Identifier)
 * [HTTP](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-## URI und URL
+### URI und URL
 
 Ein *URI* bzw. ein *URL* wird zum Beispiel im Web-Browser eingegeben um eine bestimmte Web-Seite anzuzeigen. Die **URL** ist eine spezielle Form des **Uniform Resource Identifier** (*URI*) und bezeichnet ein Ziel, das über den Browser via HTTP (der "Sprache" zwischen Server und Client) heruntergeladen werden kann.
 

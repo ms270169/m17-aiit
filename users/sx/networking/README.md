@@ -9,5 +9,5 @@
   URI-Eingabe im Browser, Namensauflösung/DNS, IP-Adressen, Netzmaske/CDIR
 
 3 [Netzwerke und Internet (3)](NETWORKING_sx_3.md)  
-  Verbindungsaufname Client/Server
+  Verbindungsaufname Client/Server, Socket, TCP, Port
   
