@@ -2,7 +2,7 @@
 
 ## 1.Schritt: Eingabe der URI im Web-Browser
 
-Der Benutzer gibt einen **Uniform Resource Locator** (*URL*) im Browser ein. Dieser beinhaltet im authority-Teil den Hostnamen oder die IP-Adresse des Rechners, auf dem der Server (ein Programm) läuft.
+Der Benutzer gibt einen **Uniform Resource Locator** (*URL*) im Browser ein. Dieser beinhaltet im authority-Teil den Domain-Namen oder die IP-Adresse des Rechners, auf dem der Server (ein Programm) läuft.
 
 ## 2.Schritt: Auflösung des Domain-Namen (Hostname, Rechnername)
 
@@ -76,12 +76,13 @@ Weiterführende Informationen in Wikipedia:
 
 Damit im internen Heim- und Firmenbereich TCP/IP Netze errichtet werden können, sind bestimmte Adressbereiche als **private Adressen** definiert. Diese werden im öffentlichen Netz (Internet) nicht verwendet.
 
-* **IPv4**:  
+* **IPv4**: 
+
    Erste Adresse | Letzte Adresse | CIDR-Notation | Anzahl
-   :----------- | :------------ | :----------- | -----: |
-  `192.168.0.0` | `192.168.255.255` | `192.168.0.0/16` |     65.536
-  `172.16.0.0`  | `172.31.255.255`  | `172.16.0.0./12` |  1.048.576
-  `10.0.0.0`    | `10.255.255.255`  | `10.0.0.0./8`    | 16.777.216
+   :----------- | :------------ | :----------- | -----: 
+    `192.168.0.0` | `192.168.255.255` | `192.168.0.0/16` |     65.536
+    `172.16.0.0`  | `172.31.255.255`  | `172.16.0.0./12` |  1.048.576
+    `10.0.0.0`    | `10.255.255.255`  | `10.0.0.0./8`    | 16.777.216
 
 * **IPv6**  
 Alle Adressen die mit `fd00` beginnen.
@@ -105,7 +106,7 @@ Mit Netzmaske        | `188.20.185.182/255.255.255.252`
 Mit Präfixlänge      | `188.20.185.182/30`
 Netzmaske (binär)    | `1111 1111   1111 1111   1111 1111   1111 1100`
 IPv4 (binär)         | `1011 1100   0001 0100   1011 1001   1011 0110`
-Netzwerkteil (binär) | `1011 1100   0001 0100   1011 1001   1011 11  `
+Netzwerkteil (binär) | `1011 1100   0001 0100   1011 1001   1011 01  `
 Geräteteil (binär)   | `                                           10`
 
 Weiterführende Informationen in Wikipedia:
