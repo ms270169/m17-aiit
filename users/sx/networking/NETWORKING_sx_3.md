@@ -21,10 +21,12 @@ Beispiel: Web-Server der HTL in Arnfels
 * `188.20.185.182:80`
 * `172.16.1.11:80`
 
-Weiterführende Informationen in Wikipedia:  
+---------------------------
+***Weiterführende Informationen in Wikipedia:***
 
 * [Socket](https://de.wikipedia.org/wiki/Socket_(Software))
 * [TCP Verbindungsaufbau](https://de.wikipedia.org/wiki/Transmission_Control_Protocol#Verbindungsaufbau)
+-------------------------
 
 ### TCP (Transmission Control Protocol)
 
@@ -39,8 +41,10 @@ Bei Übertragungsfehlern werden die Daten automatisch nochmals gesendet.
 Gehen Daten verloren, so werden diese automatisch nochmals gesendet.
 * ... Datenteile in der **richtigen Reihehfolge** beim Empfänger ankommen.
 
-Weiterführende Informationen in Wikipedia:  
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 *  [Transmission Control Protocol](https://de.wikipedia.org/wiki/Transmission_Control_Protocol#Verbindungsaufbau)
+-------------------------
 
 ### Port
 
@@ -64,6 +68,7 @@ Mit 16 Bit lassen sich Werte von 0 bis 65535 bilden. Diese Werte werden in drei 
 3) **Dynamische Ports** (49152 bis 65535)  
   Eine Portnummer aus diesem Bereich wird beim Aufbau der Verbindung automatisch dem Client-Programm zugeteilt.
 
-Weiterführende Informationen in Wikipedia: 
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 * [Port (Protokoll)](https://de.wikipedia.org/wiki/Port_(Protokoll))
-
+-------------------------
