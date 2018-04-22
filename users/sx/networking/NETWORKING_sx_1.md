@@ -8,12 +8,13 @@ Diese Netzwerke können in einem abgeschlossenen räumlichen Bereich realisiert 
 
 Damit der Informationsaustausch gelingen kann, müssen Programme und Rechner-Hardware verschiedene **Netzwerkprotokolle** erfüllen. In solchen Netzwerkprotokollen (auch *Kommunikationsprotokoll* genannt) sind alle erforderlichen Regeln und Vorgaben niedergeschrieben.
 
-Weiterführende Informationen in Wikipedia:  
+Wir werden uns der Thematik aus dem Blickwinkel eines Web-Browser nähern. Wir gehen davon aus, dass ein Mensch im Browser die URL einer pdf-Datei eingibt, und der Browser sich von einem Server diese Datei herunterladet und am Rechner anzeigt.
+
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 * [Rechnernetz](https://de.wikipedia.org/wiki/Rechnernetz)
 * [Netzwerkprotokolle](https://de.wikipedia.org/wiki/Netzwerkprotokoll)
-
-Wir werden uns der Thematik aus dem Blickwinkel eines Internet-Browser nähern. Wir gehen davon aus, dass ein Mensch im Browser die URL einer pdf-Datei eingibt, und der Browser sich von einem Server diese Datei herunterladet und am Rechner anzeigt.
-
+---------------------------
 
 ### Wie werden Informationen auf Rechnern gespeichert?
 
@@ -42,10 +43,11 @@ Für unterschiedliche Arten an Information stehen verschiedene "Codes" zur Verf�
 * Web-Seiten: HTML, CSS, ...
 * ...
 
-Weiterführende Informationen in Wikipedia:  
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 * [Datei](https://de.wikipedia.org/wiki/Datei)
 * [Code](https://de.wikipedia.org/wiki/Code)  
-
+---------------------------
 
 ### Server/Client Prinzip
 
@@ -59,10 +61,12 @@ Der Vorgang der Abfrage besteht dabei aus zwei Teilen:
 
 Server und Client müssen dabei die gleiche "Sprache" sprechen, sich also an eine bestimmtes Protokoll halten. Im Internet kommt dafür häufig das **Hypertext Transfer Protocol (HTTP)** zum Einsatz.
 
-Weiterführende Informationen in Wikipedia:  
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 * [Client-Server-Modell](https://de.wikipedia.org/wiki/Client-Server-Modell)
 * [URI](https://de.wikipedia.org/wiki/Uniform_Resource_Identifier)
 * [HTTP](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+---------------------------
 
 ### URI und URL
 
@@ -95,5 +99,7 @@ scheme         authority                path              query           fragme
 
 In diesem komplexen Beispiel besteht der authority-Teil aus der Benutzerkennung (sx), dem Hostnamen (www.htl-mechatronik.at) und der Portnummer (443). Der Query-Teil besteht aus den zwei Parametern p (sx.aiit.git) und a (summary). Das Fragment dient in der Regel dazu eine bestimmte Stelle (Anker) in der heruntergeladenen "Resource" anzuspringen.
 
-Weiterführende Informationen in Wikipedia:  
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 * [URI](https://de.wikipedia.org/wiki/Uniform_Resource_Identifier)
+---------------------------

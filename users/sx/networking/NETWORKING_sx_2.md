@@ -22,9 +22,11 @@ Den Google DNS Server sollte man aber nur zu Testzwecken und nicht im regulären
 
 Da der Nameserver für die Funktion des Netzwerks eine zentrale Bedeutung hat, können im Betriebssystem mehrere Nameserver eingetragen werden (*Primary DNS*, *Secondary DNS*, ...).
 
-Weiterführende Informationen in Wikipedia:  
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 * [Domain Name System](https://de.wikipedia.org/wiki/Domain_Name_System)
 * [Domain-Namesraum](https://de.wikipedia.org/wiki/Domain_Name_System#Domain-Namensraum)
+---------------------------
 
 ### TCP/IP, IP-Adressen
 
@@ -52,8 +54,10 @@ Vergeben werden IP-Adressen von der **Internet Assigned Numbers Authority** (**I
 
 Siehe auch: [https://www.iana.org/numbers](https://www.iana.org/numbers)
 
-Weiterführende Informationen in Wikipedia:  
+---------------------------
+***Weiterführende Informationen in Wikipedia:***  
 * [https://de.wikipedia.org/wiki/IP-Adresse](https://de.wikipedia.org/wiki/IP-Adresse)
+---------------------------
 
 ### IPv4 Adressen im IPv6 Netzwerk
 
@@ -68,9 +72,10 @@ Es stehen vier Varianten zur Verfügung:
  translated | `188.20.185.182` | `0:0:0:0:FFFF:0:BC78:B9B6` | `::ffff:0:188.20.185.182`
  6to4 | `188.20.185.182` | `2002:BC78:B9B6::` 
 
-Weiterführende Informationen in Wikipedia:
+---------------------------
+***Weiterführende Informationen in Wikipedia:***
 * [6to4](https://en.wikipedia.org/wiki/6to4)
-
+---------------------------
 
 ### Private IP-Adressen
 
@@ -87,8 +92,10 @@ Damit im internen Heim- und Firmenbereich TCP/IP Netze errichtet werden können,
 * **IPv6**  
 Alle Adressen die mit `fd00` beginnen.
 
-Weiterführende Informationen in Wikipedia:
+---------------------------
+***Weiterführende Informationen in Wikipedia:***
 * [Private IP-Adresse](https://de.wikipedia.org/wiki/Private_IP-Adresse)
+---------------------------
 
 ### CIDR, Netzwerk- und Geräteteil
 
@@ -109,6 +116,8 @@ IPv4 (binär)         | `1011 1100   0001 0100   1011 1001   1011 0110`
 Netzwerkteil (binär) | `1011 1100   0001 0100   1011 1001   1011 01  `
 Geräteteil (binär)   | `                                           10`
 
-Weiterführende Informationen in Wikipedia:
+---------------------------
+***Weiterführende Informationen in Wikipedia:***
 * [IPv4 Netzwerkteil und Geräteteil](https://de.wikipedia.org/wiki/IP-Adresse#Netzwerkteil_und_Ger%C3%A4teteil)
 * [Classless Inter-Domain Routing](https://de.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
+---------------------------

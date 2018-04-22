@@ -4,6 +4,8 @@
 
 Sobald die URL im Web-Browser eingegeben wird, baut dieses Programm als Client eine Netzwerkverbindung zum Server (einem anderen Programm) auf. Genau genommen wird das vom Betriebssystem erledigt, und dem Web-Client wird nach dem erfolgreichen Verbindungsaufbau vom Betriebssystem ein Kommunikationsendpunkt, ein sogenannter **Socket**, zur Verfügung gestellt.
 
+### Socket
+
 Wird in der URL ein Domain-Name verwendet, so wird dieser automatisch vom Betriebssystem über eine DNS-Server Abfrage durch die IP-Adresse ersetzt.
 
 Läuft der Server am eigenen Rechner, so kann in der URL ...  
