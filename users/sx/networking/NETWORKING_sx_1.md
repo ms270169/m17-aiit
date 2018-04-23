@@ -8,7 +8,7 @@ Diese Netzwerke können in einem abgeschlossenen räumlichen Bereich realisiert 
 
 Damit der Informationsaustausch gelingen kann, müssen Programme und Rechner-Hardware verschiedene **Netzwerkprotokolle** erfüllen. In solchen Netzwerkprotokollen (auch *Kommunikationsprotokoll* genannt) sind alle erforderlichen Regeln und Vorgaben niedergeschrieben.
 
-Wir werden uns der Thematik aus dem Blickwinkel eines Web-Browser nähern. Wir gehen davon aus, dass ein Mensch im Browser die URL einer pdf-Datei eingibt, und der Browser sich von einem Server diese Datei herunterladet und am Rechner anzeigt.
+Wir werden uns der Thematik aus dem Blickwinkel eines Web-Browser nähern. Wir gehen davon aus, dass ein Mensch im Browser die URL einer Textdatei eingibt, und der Browser sich von einem Server diese Datei herunterladet und anzeigt.
 
 ---------------------------
 ***Weiterführende Informationen in Wikipedia:***  

@@ -6,6 +6,14 @@ Sobald die URL im Web-Browser eingegeben wird, baut dieses Programm als Client e
 
 ### Socket
 
+Sockets werden als Kombination von IP-Adresse und Port angeschrieben. Die beiden Teile werden durch einen Doppelpunkt getrennt.
+
+Beispiel: Web-Server der HTL in Arnfels
+
+* `htl-mechatronik.at:80`
+* `188.20.185.182:80`
+* `172.16.1.11:80`
+
 Wird in der URL ein Domain-Name verwendet, so wird dieser automatisch vom Betriebssystem über eine DNS-Server Abfrage durch die IP-Adresse ersetzt.
 
 Läuft der Server am eigenen Rechner, so kann in der URL ...  
@@ -15,13 +23,6 @@ Läuft der Server am eigenen Rechner, so kann in der URL ...
 
 ... eingegeben werden.
 
-Sockets werden als Kombination von IP-Adresse und Port angeschrieben. Die beiden Teile werden durch einen Doppelpunkt getrennt.
-
-Beispiel: Web-Server der HTL in Arnfels
-
-* `htl-mechatronik.at:80`
-* `188.20.185.182:80`
-* `172.16.1.11:80`
 
 ---------------------------
 ***Weiterführende Informationen in Wikipedia:***
@@ -41,7 +42,13 @@ Dieses Netzwerkprotokoll sorgt dafür, dass Daten ...
 Bei Übertragungsfehlern werden die Daten automatisch nochmals gesendet.
 * ... **vollständig** übertragen werden.  
 Gehen Daten verloren, so werden diese automatisch nochmals gesendet.
-* ... Datenteile in der **richtigen Reihehfolge** beim Empfänger ankommen.
+* ... Datenteile in der **richtigen Reihenfolge** beim Empfänger ankommen.
+
+Liegt der Server-Socket auf einem anderen Rechner, so kommen zusätzliche andere Netzwerkprotokolle zum Einsatz, die Daten zum richtigen Rechner transportieren. Das sind im Normallfall:  
+* **Internet Protocol (IP)**
+* **Ethernet** und/oder **WLAN**
+
+Da es sich im Normalfall um einen Datenaustausch zwischen Programmen auf unterschiedlichen Rechnern handelt, wird oft von einem Datentransfer über eine **TCP/IP Verbindung** gesprochen.
 
 ---------------------------
 ***Weiterführende Informationen in Wikipedia:***  
