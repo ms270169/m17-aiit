@@ -12,4 +12,7 @@
   Verbindungsaufname Client/Server, Socket, TCP, Port
   
 4 [Netzwerke und Internet (4)](NETWORKING_sx_4.md)  
-  Request
+  Request, Response, HTTP
+
+5 [Netzwerke und Internet (5)](NETWORKING_sx_5.md)  
+  TCP/IP, Datenpakete, Routing

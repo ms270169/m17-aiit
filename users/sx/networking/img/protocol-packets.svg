@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="430"
+   height="210"
+   id="svg5806"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="la1-networking-frame.svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="496.21312"
+     inkscape:cy="55.550196"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.294925,-809.9375)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect6850"
+       width="433.35544"
+       height="214.15234"
+       x="-1.0101526"
+       y="-2.1320345"
+       transform="translate(33.294925,809.9375)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 39.90805,993.46584 0,22.42496"
+       style="fill:none;stroke:#000000;stroke-width:0.075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6, 3.6;stroke-dashoffset:0"
+       id="path5579" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 39.90805,952.29084 0,22.425"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5581" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 129.75805,952.29084 0,22.425 m 0,-22.425 0,22.425"
+       style="fill:none;stroke:#000000;stroke-width:0.3775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5583" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 129.75805,911.04084 0,22.5"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5585" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 253.28305,854.94084 0,11.175 m 1.875,-6.525 0,-0.375 m -0.225,0.975 0,-0.75 m -0.15,1.275 0,-1.125 m -0.225,1.5 0,-1.275 m -0.15,2.625 0,-2.475 m -0.375,3 0,-2.775 m -0.225,3.525 0,-3.375 m -0.15,3.975 0,-3.975 m -0.225,4.65 0,-4.425 m -2.025,-0.975 0,-0.375 m 0.15,0.975 0,-0.75 m 0.225,1.275 0,-1.125 m 0.15,1.725 0,-1.725 m 0.225,2.25 0,-2.025 m 0.15,2.625 0,-2.475 m 0.225,3 0,-3 m 0.15,0.375 0,-0.15 m 0,3.525 0,-3.375 m 0.225,3.975 0,-3.975 m 0.15,4.5 0,-4.275 m 0.225,-0.225 0,-1.65 m 0,6.75 0,-4.875 2.25,-1.725 m -2.25,7.275 2.25,-7.275 m -2.25,7.275 -2.25,-7.275 m 2.25,1.725 -2.25,-1.725 m 2.25,11.025 0,22.5"
+       style="fill:none;stroke:#000000;stroke-width:0.3775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5587" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 253.28305,828.69084 0,22.5"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5589" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 328.13305,952.29084 0,22.425 m 1.875,-73.95 0,-0.375 m -0.225,0.975 0,-0.75 m -0.15,1.275 0,-1.125 m -0.15,1.5 0,-1.275 m -0.225,2.625 0,-2.475 m -0.375,3 0,-2.775 m -0.225,3.525 0,-3.375 m -0.15,3.975 0,-3.975 m -0.15,4.725 0,-4.5 m -2.1,-0.975 0,-0.375 m 0.225,0.975 0,-0.75 m 0.15,1.275 0,-1.125 m 0.15,1.725 0,-1.725 m 0.225,2.25 0,-2.025 m 0.225,2.625 0,-2.475 m 0.15,3 0,-3 m 0.225,0.375 0,-0.15 m 0,3.525 0,-3.375 m 0.15,3.975 0,-3.975 m 0.15,4.5 0,-4.275 m 0.225,-0.225 0,-1.65 m 0,6.675 0,-4.8 2.25,-1.725 m -2.25,7.35 2.25,-7.35 m -2.25,7.35 -2.25,-7.35 m 2.25,1.725 -2.25,-1.725"
+       style="fill:none;stroke:#000000;stroke-width:0.3775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5591" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 328.13305,911.04084 0,22.5"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5593" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 328.13305,854.94084 0,11.175 m 1.875,-6.525 0,-0.375 m -0.225,0.975 0,-0.75 m -0.15,1.275 0,-1.125 m -0.15,1.5 0,-1.275 m -0.225,2.625 0,-2.475 m -0.375,3 0,-2.775 m -0.225,3.525 0,-3.375 m -0.15,3.975 0,-3.975 m -0.15,4.65 0,-4.425 m -2.1,-0.975 0,-0.375 m 0.225,0.975 0,-0.75 m 0.15,1.275 0,-1.125 m 0.15,1.725 0,-1.725 m 0.225,2.25 0,-2.025 m 0.225,2.625 0,-2.475 m 0.15,3 0,-3 m 0.225,0.375 0,-0.15 m 0,3.525 0,-3.375 m 0.15,3.975 0,-3.975 m 0.15,4.5 0,-4.275 m 0.225,-0.225 0,-1.65 m 0,6.75 0,-4.875 2.25,-1.725 m -2.25,7.275 2.25,-7.275 m -2.25,7.275 -2.25,-7.275 m 2.25,1.725 -2.25,-1.725"
+       style="fill:none;stroke:#000000;stroke-width:0.3775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5595" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 328.13305,892.36584 0,-22.5 m 0,-18.675 0,-22.5"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5597" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 376.80805,993.46584 0,22.42496"
+       style="fill:none;stroke:#000000;stroke-width:0.07440945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5599" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 376.80805,952.29084 0,22.425"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5601" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 129.75805,937.29084 0,11.25 m 1.875,-6.6 0,-0.375 m -0.225,0.975 0,-0.75 m -0.15,1.275 0,-1.125 m -0.225,1.5 0,-1.275 m -0.15,2.625 0,-2.475 m -0.375,3 0,-2.775 m -0.225,3.525 0,-3.375 m -0.15,3.975 0,-3.975 m -0.225,4.725 0,-4.5 m -2.025,-0.975 0,-0.375 m 0.15,0.975 0,-0.75 m 0.225,1.275 0,-1.125 m 0.15,1.725 0,-1.725 m 0.225,2.25 0,-2.025 m 0.15,2.625 0,-2.475 m 0.225,3 0,-3 m 0.15,0.375 0,-0.15 m 0,3.525 0,-3.375 m 0.225,3.975 0,-3.975 m 0.15,4.5 0,-4.275 m 0.225,-0.225 0,-1.65 m 0,6.75 0,-4.875 2.25,-1.725 m -2.25,7.35 2.25,-7.35 m -2.25,7.35 -2.25,-7.35 m 2.25,1.725 -2.25,-1.725 m 202.5,41.925 0,-0.375 m -0.225,0.975 0,-0.75 m -0.15,1.275 0,-1.125 m -0.15,1.5 0,-1.275 m -0.225,2.625 0,-2.475 m -0.375,3 0,-2.775 m -0.225,3.525 0,-3.375 m -0.15,3.975 0,-3.975 m -0.15,4.725 0,-4.5 m -2.1,-0.975 0,-0.375 m 0.225,0.975 0,-0.75 m 0.15,1.275 0,-1.125 m 0.15,1.725 0,-1.725 m 0.225,2.25 0,-2.025 m 0.225,2.625 0,-2.475 m 0.15,3 0,-3 m 0.225,0.375 0,-0.15 m 0,3.525 0,-3.375 m 0.15,3.975 0,-3.975 m 0.15,4.5 0,-4.275 m 0.225,-0.225 0,-1.65 m 0,6.75 0,-4.875 2.25,-1.725 m -2.25,7.35 2.25,-7.35 m -2.25,7.35 -2.25,-7.35 m 2.25,1.725 -2.25,-1.725 m 2.25,-3.9 0,11.25 m 0,-52.425 0,11.25 m 1.875,-6.6 0,-0.375 m -0.225,0.975 0,-0.75 m -0.15,1.275 0,-1.125 m -0.15,1.5 0,-1.275 m -0.225,2.625 0,-2.475 m -0.375,3 0,-2.775 m -0.225,3.525 0,-3.375 m -0.15,3.975 0,-3.975 m -0.15,4.725 0,-4.5 m -2.1,-0.975 0,-0.375"
+       style="fill:none;stroke:#000000;stroke-width:0.3775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5603" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 326.48305,942.54084 0,-0.75 m 0.15,1.275 0,-1.125 m 0.15,1.725 0,-1.725 m 0.225,2.25 0,-2.025 m 0.225,2.625 0,-2.475 m 0.15,3 0,-3 m 0.225,0.375 0,-0.15 m 0,3.525 0,-3.375 m 0.15,3.975 0,-3.975 m 0.15,4.5 0,-4.275 m 0.225,-0.225 0,-1.65 m 0,6.75 0,-4.875 2.25,-1.725 m -2.25,7.35 2.25,-7.35 m -2.25,7.35 -2.25,-7.35 m 2.25,1.725 -2.25,-1.725 m 2.25,-45.075 0,11.25 m -136.65,-6.6 0,-0.375 m -0.15,0.975 0,-0.75 m -0.225,1.275 0,-1.125 m -0.15,1.5 0,-1.275 m -0.225,2.625 0,-2.475 m -0.375,3 0,-2.775 m -0.15,3.525 0,-3.375 m -0.225,3.975 0,-3.975 m -0.15,4.725 0,-4.5 m -2.025,-0.975 0,-0.375 m 0.15,0.975 0,-0.75 m 0.15,1.275 0,-1.125 m 0.225,1.725 0,-1.725 m 0.15,2.25 0,-2.025 m 0.225,2.625 0,-2.475 m 0.15,3 0,-3 m 0.225,0.375 0,-0.15 m 0,3.525 0,-3.375 m 0.15,3.975 0,-3.975 m 0.225,4.5 0,-4.275 m 0.15,-0.225 0,-1.65 m 0,6.675 0,-4.8 2.25,-1.725 m -2.25,7.35 2.25,-7.35 m -2.25,7.35 -2.25,-7.35 m 2.25,1.725 -2.25,-1.725 m 2.25,11.025 0,22.5"
+       style="fill:none;stroke:#000000;stroke-width:0.3775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5605" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 189.60805,869.86584 0,22.5"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5607" />
+    <text
+       style="font-size:15px"
+       y="941.86584"
+       x="142.88306"
+       id="text5609">
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="142.88306 145.66434 150.3082 154.95206 157.27399 162.84494 167.02106 169.34299 173.98682 178.16296"
+         y="941.86584"
+         sodipodi:role="line"
+         id="tspan5611">(20 Bytes)</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 189.60805,896.11584 0,11.25"
+       style="fill:none;stroke:#000000;stroke-width:0.3775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5613" />
+    <text
+       style="font-size:15px"
+       y="900.76587"
+       x="204.60806"
+       id="text5615">
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="204.60806 207.38934 212.0332 216.67706 218.99896 224.56992 228.74606 231.06798 235.71184 239.88795"
+         y="900.76587"
+         sodipodi:role="line"
+         id="tspan5617">(20 Bytes)</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 253.28305,851.19084 74.85,0 m -74.85,-22.5 74.85,0"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5619" />
+    <text
+       style="font-size:15px"
+       y="906.31586"
+       x="131.33304"
+       id="text5621">
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="131.33304 133.65497 139.22592 141.54785 146.65109 149.43237 154.07623 161.03366"
+         y="906.31586"
+         sodipodi:role="line"
+         id="tspan5623">IP Frame</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="132.23343 134.55536 140.12631 142.44821 148.47855 153.12241 157.76627 162.4101 167.05396"
+         y="920.41614"
+         sodipodi:role="line"
+         id="tspan5625">IP Header</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="132.23343 135.01471 137.33664 142.90759 145.22952 150.80048 155.44434 160.0882 162.86948 167.51334 171.68945 175.86557 180.50943 184.68555"
+         y="929.71637"
+         sodipodi:role="line"
+         id="tspan5627">(IP Addresses)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="190.65823 195.76147 201.79178 207.36273 209.68466 214.7879 217.56918 222.21304 229.17047"
+         y="865.14093"
+         sodipodi:role="line"
+         id="tspan5629">TCP Frame</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="131.33304"
+         sodipodi:role="line"
+         id="tspan5631"
+         y="0" />
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="337.73386 340.51517 345.159 347.48093 353.05188 357.228 359.54993 364.19379 368.3699"
+         y="984.99152"
+         sodipodi:role="line"
+         id="tspan5633">(4 Bytes)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="331.95911 331.95911 331.95911 345.89066 350.9939 357.02423"
+         sodipodi:role="line"
+         id="tspan5635"
+         y="961.59106">FFFCS</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="331.95911 334.74042 340.77072 345.41458 350.05844 354.23456 358.41071 362.58682 367.23068 374.18808"
+         y="970.8913"
+         sodipodi:role="line"
+         id="tspan5637">(Checksum)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="333.90936 336.23129 341.80225 344.12415 346.90546 349.22739 353.87125 359.4422 365.01312 370.58411 376.61441 378.93634"
+         y="920.41614"
+         sodipodi:role="line"
+         id="tspan5639">IP - LAYER 3</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="333.90936 336.69067 342.72101 347.36484 349.68677 355.7171 360.36093 363.14224 367.31836 369.64029 371.49451 376.13834 380.31445 384.95831 387.73962"
+         y="929.71637"
+         sodipodi:role="line"
+         id="tspan5641">(Network layer)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="257.93396 263.03717 269.0675 274.63846 276.96039 282.99072 287.63455 289.95648 294.60034 296.92224 302.49319 305.27451 308.05582 312.69965"
+         y="883.89087"
+         sodipodi:role="line"
+         id="tspan5643">TCP Data Array</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="333.759 338.86224 344.89258 350.4635 352.78543 355.56674 357.88867 362.53253 368.10349 373.67441 379.24536 385.2757 387.59763"
+         y="879.16602"
+         sodipodi:role="line"
+         id="tspan5645">TCP - LAYER 4</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="333.759 336.54031 341.64355 344.42484 349.0687 353.71255 357.88867 362.53253 367.17636 369.95767 372.2796 374.60153 379.24536 383.88922 388.06534 392.7092 395.49051"
+         y="888.54144"
+         sodipodi:role="line"
+         id="tspan5647">(Transport Layer)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="255.45918 261.03015 265.67398 270.31784 272.17203 274.02625 278.20239 282.84622 285.16815 287.02234 291.6662"
+         y="823.966"
+         sodipodi:role="line"
+         id="tspan5649">Application</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="335.10959 339.75342 345.32437 350.89532 356.46628 362.49661 364.81851"
+         y="837.99109"
+         sodipodi:role="line"
+         id="tspan5651">LAYER 5</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="335.10959 337.89087 343.46182 348.10568 352.74954 354.60373 356.45792 360.63406 365.27792 367.59985 369.45404 374.0979 378.74173"
+         y="847.36652"
+         sodipodi:role="line"
+         id="tspan5653">(Application)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="259.35968 264.93063 269.57449 274.21835 276.07254 277.92676 282.10284 286.7467 289.06863 290.92285 295.56668 300.21054"
+         y="837.99109"
+         sodipodi:role="line"
+         id="tspan5655">Application</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="259.35968 265.39001 269.56613 274.20999 276.9913 279.77261 285.80292 290.44678 292.76868"
+         y="847.36652"
+         sodipodi:role="line"
+         id="tspan5657">User-Data</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="259.28452 262.0658 266.70966 271.35352 275.99738 280.64124 282.96313 288.53412 292.71024 295.03217 299.67599 303.85214 306.17404 313.13147 317.77533 321.95145"
+         y="859.51654"
+         sodipodi:role="line"
+         id="tspan5659">(1460 Bytes Max)</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 376.80805,974.71584 -336.9,0 m 0,-22.425 336.9,0 m -48.675,-18.75 -198.375,0 m 0,-22.5 198.375,0"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5661" />
+    <text
+       style="font-size:15px"
+       y="1002.7659"
+       x="397.79575"
+       id="text5663">
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="397.79575 402.43961 408.01056 413.58151 419.15247 425.18277 427.5047"
+         y="1002.7659"
+         sodipodi:role="line"
+         id="tspan5665">LAYER 1</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="388.50806 391.28937 396.86029 401.50415 405.68027 409.85641 411.7106 415.88672 420.53058 422.38477 424.7067 429.35056 433.99442 438.17053 442.81439 445.59567"
+         y="1012.0661"
+         sodipodi:role="line"
+         id="tspan5667">(Physical Layer)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="114.90756 120.93787 125.58173 130.22559 132.07977 136.72363 139.04556 144.14877 148.32492 152.96875 157.61261 161.78873 164.11066 166.89194 171.99518 173.84937 178.49323 183.13705 185.9184 188.2403 190.56223 196.59256 201.23639 205.88025 210.52411 215.16797 217.94925 220.73056 223.05249 225.37442 230.94536 232.79958 237.44341 242.08725 246.73111 248.58533 250.90724 256.01047 260.6543 263.43561 270.39304 272.71497 275.0369 279.68076 282.00269 286.1788"
+         y="1007.4164"
+         sodipodi:role="line"
+         id="tspan5669">Cable Types (Fiber, Copper), Signal Form, etc.</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 376.80805,1015.8908 -336.9,0 m 0,-22.42496 336.9,0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.07500000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:3.60000000000000009, 3.60000000000000009, 3.60000000000000009, 3.60000000000000009, 3.60000000000000009, 3.60000000000000009, 3.60000000000000009, 3.60000000000000009;stroke-dashoffset:0"
+       id="path5671" />
+    <text
+       style="font-size:15px"
+       y="961.59082"
+       x="45.608063"
+       id="text5673">
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="45.608063 51.179016 53.500916 58.144775 62.788635 65.569916 70.213776 74.857635 77.179565 79.501495 85.531799 90.175659 94.819519 99.463348 104.10721"
+         y="961.59082"
+         sodipodi:role="line"
+         id="tspan5675">Ethernet Header</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="45.608063 48.389343 53.960297 56.282227 60.926086 65.569916 68.351227 72.995087 77.638947 79.960846 82.282776 87.853729 92.497589 97.141449 99.922729 104.56659 108.74271 112.91882 117.56268 121.7388"
+         y="970.89105"
+         sodipodi:role="line"
+         id="tspan5677">(Ethernet Addresses)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="186.90808 192.47903 194.80093 199.44479 204.08865 206.86996 211.51382 216.15765 218.47958 220.80151 226.83182 231.47569 233.79762 238.44147 240.7634 246.33434 249.11563 251.89694 256.54077"
+         y="966.24139"
+         sodipodi:role="line"
+         id="tspan5679">Ethernet Data Array</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="62.407776 65.189056 69.832916 74.476776 76.798706 82.369659 86.545776 88.867706 93.511536 97.687683"
+         y="983.11627"
+         sodipodi:role="line"
+         id="tspan5681">(14 Bytes)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="228.53317 230.85512 236.42606 238.74799 244.77832 249.42216 251.74409 256.38794 258.70987 264.28082 267.06213 269.84341 274.48727"
+         y="925.06647"
+         sodipodi:role="line"
+         id="tspan5683">IP Data Array</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 189.60805,892.36584 138.525,0 m 0,-22.5 -138.525,0"
+       style="fill:none;stroke:#000000;stroke-width:1.11500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5685" />
+    <text
+       style="font-size:15px"
+       y="879.16583"
+       x="195.08304"
+       id="text5687">
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="195.08304 200.18628 206.21658 211.78754 214.10947 220.1398 224.78366 229.42749 234.07137 238.71521"
+         y="879.16583"
+         sodipodi:role="line"
+         id="tspan5689">TCP Header</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="195.08304 197.86435 203.4353 208.07916 210.86044 213.18237 215.5043 221.53464 226.17847 233.13591 237.77975 242.42361 245.20491 249.38103"
+         y="888.54126"
+         sodipodi:role="line"
+         id="tspan5691">(Port Numbers)</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="41.032471 46.603424 48.925354 53.569214 58.213074 60.994354 65.638214 70.282074 72.603973 74.925903 80.029144 82.810425 87.454285 94.411713"
+         y="947.49146"
+         sodipodi:role="line"
+         id="tspan5693">Ethernet Frame</tspan>
+    </text>
+    <text
+       style="font-size:15px"
+       y="961.59082"
+       x="385.43304"
+       id="text5699">
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="385.43304 391.004 393.32593 397.96979 402.61365 405.39493 410.03879 414.68265 417.00455 419.32648 422.10779 424.42972 429.07355 434.6445 440.21545 445.78641 451.81674 454.13867"
+         y="961.59082"
+         sodipodi:role="line"
+         id="tspan5701">Ethernet - LAYER 2</tspan>
+      <tspan
+         style="font-size:8.3522501px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="385.43304 388.21436 394.24469 398.88852 401.21045 405.85431 408.17624 412.82007 414.67429 419.31815 423.49426 425.81619 430.46002 435.10388 439.28 443.92386 446.70517"
+         y="970.89105"
+         sodipodi:role="line"
+         id="tspan5703">(Data Link Layer)</tspan>
+    </text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="370.2146"
+       y="838.15179"
+       id="text5977"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5979"
+         x="370.2146"
+         y="838.15179"
+         style="font-size:8px">-7</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect5985"
+       width="29.330357"
+       height="8.7946424"
+       x="296.83035"
+       y="144.24107"
+       transform="translate(33.294925,809.9375)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="332.66464"
+       y="961.69049"
+       id="text5981"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5983"
+         x="332.66464"
+         y="961.69049"
+         style="font-size:8px">FCS</tspan></text>
+  </g>
+</svg>
