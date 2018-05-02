@@ -75,7 +75,7 @@ Eine MAC-Adresse besteht aus 48 Bit und wird hexdezimal angeschrieben. Mehrere S
 
 * Linux, macOS: **50:3f:56:02:2b:01**
 * Windows: 50-3f-56-02-2b-01
-* HP-Router: 503f56-022b01
+* HP-Switch/Router: 503f56-022b01
 
 Das aus Ethernet-Header und Daten (IP-Daten) gebildete Paket hat folgenden Aufbau:
 

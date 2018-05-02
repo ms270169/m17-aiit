@@ -15,4 +15,7 @@
   Request, Response, HTTP
 
 5 [Netzwerke und Internet (5)](NETWORKING_sx_5.md)  
-  TCP/IP, Datenpakete, Routing
+  TCP/IP, Datenpakete, Ethernet und WLAN, MAC-Adressen, Routing
+
+6 [Netzwerke und Internet (6)](NETWORKING_sx_6.md)  
+  Subnetting mit CIDR, Routing, IP
