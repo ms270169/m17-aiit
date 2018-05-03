@@ -2,7 +2,7 @@
 
 ## Schritt 4: Transport von Daten durch das Netz
 
-Wenn der Client seinem Socket einen Request übergibt, so beginnt die Netzwerk-Software im Betriebssystem des Client -Rechners aktiv zu werden.
+Wenn der Client seinem Socket einen Request übergibt, so beginnt die Netzwerk-Software im Betriebssystem des Client-Rechners aktiv zu werden.
 
 Im Normalfall erfolgt mit Hilfe der folgenden Protokolle ein Weitertransport der Bytes an den Ziel-Socket auf einem anderen Rechner.
 
@@ -18,18 +18,18 @@ Die Daten (HTTP Request und Response) werden, falls sie zu viele Bytes haben, in
 
 Das Bild zeigt, dass die Datenpakete nacheinander jedes Protokoll durchlaufen, und dabei immer ein wenig größer werden. Man spricht in diesem Zusammenhang auch von Schichten (Layer) die nacheinander durchlaufen werden. Also TCP-Layer, IP-Layer, ...
 
-Folgende Link zeigt eine Video-Animation:  
+Folgender Link zeigt eine Video-Animation:  
 [YouTube - Animation of packet Transmission through Layers of TCP/IP](https://www.youtube.com/watch?v=aaJ1KcCDz-c)
 
 -------------------------------------------------------
 
 ### TCP (Transmission Control Protocol)
 
-TCP, das erste nun zum Einsatz kommende Protokoll, vergibt für jedes Byte eine fortlaufende 32-Bit große Nummer, die **Sequence Nummer**. Damit Server und Client die gleiche Nummerierung verwenden, kommt es bei der Verbindungsaufnahme zu einem Abgleich, einer Synchronisierung dieser Nummer. Davon kommt auch der Name SYN-Paket, der bei der Verbindungsaufnahme entsendet wird.
+TCP, das erste nun zum Einsatz kommende Protokoll, vergibt für jedes Byte eine fortlaufende 32-Bit große Nummer, die **Sequence Nummer**. Damit Server und Client die gleiche Nummerierung verwenden, kommt es bei der Verbindungsaufnahme zu einem Abgleich, einer Synchronisierung dieser Nummer. Davon kommt auch der Name SYN-Paket, das Paket das bei der Verbindungsaufnahme entsendet wird.
 
 Nun müssen die Daten in Datenpakete zerlegt werden. Bei TCP spricht man dabei von einer Zerlegung in **TCP-Segmente**. Jedes Segment kann eine maximale Anzahl an Bytes aufnehmen, üblicherweise **1500 Bytes** (*MTU* = *Maximum Transmission Unit*). In unserem Beispiel kann der Request in einem TCP-Segment gesendet werden, für die Response (Header + 4000 Byte Nutzdaten) sind aber mindestens drei TCP/IP-Segmente erforderlich.
 
-Jedes TCP-Segment mit einem TCP-Header versehen. Dieser TCP-Header besteht aus mindestens 20 Bytes und hat folgenden Aufbau:
+Jedes TCP-Segment wird mit einem TCP-Header versehen. Dieser TCP-Header besteht aus mindestens 20 Bytes und hat folgenden Aufbau:
 
 ![](img/tcp-header.svg)
 
@@ -52,11 +52,11 @@ Es versieht das Paket mit einem IP-Header. Dieser IP-Header besteht aus mindeste
 
 ![](img/ip-header.svg)
 
-Der Header enthält unter anderem die Länge der Daten (*TL*) und die eigene Absender IP (*Source IP Address*) und die Empfänger IP (*Destination IP Address*) des Ziel-Socket.
+Der Header enthält unter anderem die Länge der Daten (*TL*), die eigene Absender IP-Adresse (*Source IP Address*) und die Empfänger IP-Adresse (*Destination IP Address*) des Ziel-Socket.
 
 Solange die Ziel-IP nicht mit der eigenen IP-Adresse übereinstimmt, wird der IP-Layer das Datenpaket (IP-Header + TCP Datenpaket) an den nächsten Layer (Ethernet oder WLAN) übergeben.
 
-Hauptaufgabe des IP-Protokolls ist die Wegfindung im Netzwerk, das sogenannte **Routing**. Das Datenpaket muss über viele Rechner hinweg zum Zielrechner transportiert werden.
+Hauptaufgabe des IP-Protokolls ist die Wegfindung im Netzwerk, das sogenannte **Routing**. Das Datenpaket muss über viele Rechner (Router) hinweg zum Zielrechner transportiert werden.
 
 ---------------------------
 ***Weiterführende Informationen in Wikipedia:***
@@ -69,7 +69,7 @@ Hauptaufgabe des IP-Protokolls ist die Wegfindung im Netzwerk, das sogenannte **
 
 Diese beiden Protokolle sind für den tatsächlichen Transport der Information über ein Medium verantwortlich. Bei Ethernet ist das in der Regel ein Kabel aus Kupfer oder Glasfaser, bei WLAN (*Wireless Local Area Network*) ist das Medium der freie Raum (drahtlose Funkübertragung).
 
-Das vom IP-Layer übergebene Datenpaket wird auch hier wieder mit einem Header versehen. Als Adressen kommen nun **MAC-Adressen** zu Einsatz. Die Abkürzung MAC steht für *Media Access Control*.
+Das vom IP-Layer übergebene Datenpaket wird auch hier wieder mit einem Header versehen. Als Adressen kommen nun **MAC-Adressen** zum Einsatz. Die Abkürzung MAC steht für *Media Access Control*.
 
 Eine MAC-Adresse besteht aus 48 Bit und wird hexdezimal angeschrieben. Mehrere Schreibweisen sind in Verwendung:
 
@@ -100,7 +100,7 @@ Hier sind vier MAC-Adressen gespeichert, von denen im Normalfall nur drei (Sende
 
 Der Ethernet- bzw. WLAN-Layer übertragen ein Datenpaket zum nächstgelegenen Rechner, der über die MAC-Adresse gefunden wird.
 
-Falls es mehr als einen möglichen Weg gibt, entscheidet der IP-Layer an welche IP-Adresse das Paket zu senden ist. 
+Falls es mehr als einen möglichen Weg gibt, entscheidet der IP-Layer an welche benachbarte IP-Adresse das Paket zu senden ist. 
 
 ![](/img/ip-routing.svg)
 

@@ -97,7 +97,7 @@ https://sx@www.htl-mechatronik.at:443/gitweb/me17?p=sx-aiit.git;a=summary#descri
 scheme         authority                path              query           fragment
 ```
 
-In diesem komplexen Beispiel besteht der authority-Teil aus der Benutzerkennung (sx), dem Hostnamen (www.htl-mechatronik.at) und der Portnummer (443). Der Query-Teil besteht aus den zwei Parametern p (sx.aiit.git) und a (summary). Das Fragment dient in der Regel dazu eine bestimmte Stelle (Anker) in der heruntergeladenen "Resource" anzuspringen.
+In diesem komplexen Beispiel besteht der authority-Teil aus der Benutzerkennung (sx), dem Hostnamen (www.htl-mechatronik.at) und der Portnummer (443). Der Query-Teil besteht aus den zwei Parametern p (sx.aiit.git) und a (summary). Das Fragment dient in der Regel dazu eine bestimmte Stelle (Anker) in der heruntergeladenen "Resource" anzuspringen. Das Fragment wird nicht an den Server übertragen.
 
 ---------------------------
 ***Weiterführende Informationen in Wikipedia:***  

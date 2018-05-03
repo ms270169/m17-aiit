@@ -2,7 +2,7 @@
 
 ## 2.Schritt: TCP/IP Verbindung zu einem Zielrechner aufbauen
 
-Sobald die URL im Web-Browser eingegeben wird, baut dieses Programm als Client eine Netzwerkverbindung zum Server (einem anderen Programm) auf. Genau genommen wird das vom Betriebssystem erledigt, und dem Web-Client wird nach dem erfolgreichen Verbindungsaufbau vom Betriebssystem ein Kommunikationsendpunkt, ein sogenannter **Socket**, zur Verfügung gestellt.
+Sobald die URL im Web-Browser eingegeben wird, baut das Client Programm (der Web-Browser) eine Netzwerkverbindung zum Server (einem anderen Programm) auf. Genau genommen wird das vom Betriebssystem erledigt, und dem Web-Client wird nach dem erfolgreichen Verbindungsaufbau vom Betriebssystem ein Kommunikationsendpunkt, ein sogenannter **Socket**, zur Verfügung gestellt.
 
 ### Socket
 
@@ -57,13 +57,14 @@ Da es sich im Normalfall um einen Datenaustausch zwischen Programmen auf untersc
 
 ### Port
 
-Der Port ist eine 16 Bit große Zahl und Teil des Socket, der Netzwerkadresse eines Programmes. Durch ihn kann das Betriebssystem eintreffende Daten dem richtigen Programm zustellen.
+Der Port ist eine 16 Bit große Zahl und Teil des Socket, der "Netzwerkadresse" eines Programmes. Durch ihn kann das Betriebssystem eintreffende Daten dem richtigen Programm zustellen.
 
 Mit 16 Bit lassen sich Werte von 0 bis 65535 bilden. Diese Werte werden in drei Bereiche unterteilt:
 1) **System Ports**  (0 bis 1023)  
 
     Siehe auch: [Wikipedia - Liste der standardisierten Ports](https://de.wikipedia.org/wiki/Liste_der_standardisierten_Ports)
 
+     Beispiele:  
      Port     | Beschreibung 
      --:     | :--
      22      | SSH (Secure Shell)

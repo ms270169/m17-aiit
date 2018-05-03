@@ -6,9 +6,7 @@ Nachdem die TCP/IP Verbindung aufgebaut ist, sendet der Client von seinem Socket
 
 ### Request (Anfrage)
 
-Der HTTP-Request selbst ist eine Textnachricht, die am Ende mit einer leeren Zeile abgeschlossen ist. Die Textnachricht besteht aus dem HTTP-Kommando *GET* und dem Request-Header (alle Zeilen unter GET).
-
-Der Header besteht aus Attributen, zum Beispiel dem Attribut *Connection* hat den Wert *keep-alive*, das dem Server mitteilt, er möge die Netzwerverbindung nach der Beantwortung geöffnet lassen.
+Der HTTP-Request selbst ist eine Textnachricht, die am Ende mit einer leeren Zeile (diese enthält nur das ASCII Steuerzeichen LF = LineFeed) abgeschlossen ist. Die Textnachricht besteht aus dem HTTP-Kommando *GET* und dem Request-Header (alle Zeilen unter GET bis zur leeren Zeile).
 
 ```
 GET /1ahme/text HTTP/1.1
@@ -23,7 +21,10 @@ Accept-Encoding: gzip, deflate
 Accept-Language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
 
 ```
-Dieser ASCII codierte Text (467 Zeichen) wird über das Netzwerk an den Server-Socket `htl-mechatronik.at:80` (das Web-Server Programm am Server-Host) gesendet.
+
+Der Header besteht aus Attributen, zum Beispiel hat das Attribut *Connection* hat den Wert *keep-alive*, das dem Server mitteilt, er möge die Netzwerverbindung nach der Beantwortung geöffnet lassen.
+
+Dieser ASCII codierte Text (467 Zeichen) wird über das Netzwerk an den Server-Socket `htl-mechatronik.at:80` (das Web-Server Programm am Server-Host `htl-mechatronik.at`) gesendet.
 
 -------------------------------------
 
@@ -45,7 +46,7 @@ Connection: Keep-Alive
 Lorem ipsum ... est. Pha
 ```
 
-Auch hier wird dem gleichen Prinzip wie beim Request gefolgt. Zu Beginn eine Zeile die angibt, ob der Request erfolgreich bearbeitet werden konnte. Der HTTP Status-Code 200 steht für einer erfolgreiche Bearbeitung. Danach kommt der Response-Header, gefolgt von einer Leerzeile. Im Header gibt es das Attribut `Content-Length` mit dem Wert 4000. Es besagt, dass nach dem Header der **Body** mit 4000 Zeichen folgt. Danach ist die Response zu Ende. Die letzte Zeile mit `...` symbolisiert die 4000 Zeichen der angeforderten Resource, also den angeforderten Text.
+Auch hier wird dem gleichen Prinzip wie beim Request gefolgt. Zu Beginn eine Zeile die angibt, ob der Request erfolgreich bearbeitet werden konnte. Der HTTP Status-Code 200 steht für eine erfolgreiche Bearbeitung. Danach kommt der Response-Header, gefolgt von einer Leerzeile. Im Header gibt es das Attribut `Content-Length` mit dem Wert 4000. Es besagt, dass nach dem Header (und der Leerzeile) der **Body** mit 4000 Zeichen folgt. Danach ist die Response zu Ende. Die letzte Zeile mit `...` symbolisiert die 4000 Zeichen der angeforderten Resource, also den mit der URL angeforderten Text.
 
 -------------------------------------
 
@@ -87,9 +88,9 @@ Sehr häufige Status-Codes sind:
 * 404 Not Found
 * 500 Internal Server Error
 
-In der Antwort können auch Daten im Body mitgesendet werden, zum Beispiel um bei einem POST dem Client mitteilen zu können mit welcher URL die neu erstellte Resource in Zukunft abgefragt werden kann.
+In der Antwort können auch Daten im Body mitgesendet werden, zum Beispiel um bei einem POST dem Client mitzuteilen mit welcher URL die neu erstellte Resource in Zukunft abgefragt werden kann.
 
-Stellt der Server fest, dass die Resource nur für bestimmte "Anfrager" verfügbar ist, erfolgt die Antwort mit Status-Code 401 (*Unauthorized*). In diesem Fall muss der Client zusätzliche Informationen im Header mitsenden (ID/Password, Cookie, JSON-Webtoken, ...), die eine Authentifizierung erlauben. Fehlen diese Informationen, so kann sich der Client diese Informationen in der Regel über spezielle Login-Seiten beschaffen. Üblicherweise erfolgt eine automatische Weiterleitung zum Login URL.
+Stellt der Server fest, dass die Resource nur für bestimmte "Anfrager" verfügbar ist, erfolgt die Antwort mit Status-Code 401 (*Unauthorized*) und gewünschte Daten werden nicht gesendet. In diesem Fall muss der Client zusätzliche Informationen im Header mitsenden (ID/Password, Cookie, JSON-Webtoken, ...). Diese Angaben erlauben eine Überprüfung wer der Anfrager eigentlich ist, eine sogenannte **Authentifizierung** (**Authentication**). Fehlen diese Informationen, so kann sich der Client diese Informationen in der Regel über spezielle Login-Seiten beschaffen. Üblicherweise erfolgt eine automatische Weiterleitung zum Login URL.
 
 ---------------------------
 ***Weiterführende Informationen in Wikipedia:***
