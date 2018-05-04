@@ -24,11 +24,11 @@ Oft müssen Router entscheiden welchen Weg Pakete nehmen sollen. Mit Hilfe spezi
 
 Zuständig für das Routing ist das **Internet Protocol** (***IP***). Jedes Subnetz bekommt eine eigene Netzwerkadresse (*Subnet-Address*), aufgrund derer der Router die Wegentscheidung treffen kann.
 
-![](./img/internet-packet-transfer.png)
+![](./img/internet-packet-transfer.svg)
 
 Solange ein Paket nicht am Zielrechner angelangt ist, wird es an das "beste" benachbarte Subnetz weitergegeben. Eine solche Weitergabe wird **Hop** genannt.
 
-Damit Pakete nicht endlos im Netz herumschwirren, wird bei jedem Hop der Wert im 8-Bit große TTL-Feld des IP-Header um 1 reduziert. Beim Wert 0 wird das Paket nicht mehr weitergeleitet, was einer Zerstörung des Pakets gleichkommt. Das Paket konnte dann sein Ziel nicht finden. Die Abkürzung **TTL** steht für ***Time to Live***.
+Damit Pakete nicht endlos im Netz herumschwirren, wird bei jedem Hop der Wert im 8-Bit großen TTL-Feld des IP-Header um 1 reduziert. Beim Wert 0 wird das Paket nicht mehr weitergeleitet, was einer Zerstörung des Pakets gleichkommt. Das Paket konnte dann sein Ziel nicht finden. Die Abkürzung **TTL** steht für ***Time to Live***.
 
 Siehe auch:  
 * [Youtube-Video Routing](https://www.youtube.com/watch?v=ToHBZJ5uwAk)
